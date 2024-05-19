@@ -43,7 +43,7 @@ for _ in range(5):
                      )
     )
 
-if _name_ = "_main_":
+if _name_ == "_main_":
     print()
 print(colored_points)
 
